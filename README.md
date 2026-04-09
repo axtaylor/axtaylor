@@ -17,9 +17,9 @@ Casual Projects:
 <div align="center">
   <picture>
     <source 
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=axtaylor&langs_count=6&theme=github_dark_dimmed&layout=compact&hide=Jupyter%20Notebook%2CHTML%2CCSS" 
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=axtaylor&langs_count=8&theme=github_dark_dimmed&layout=compact&hide=Jupyter%20Notebook%2CHTML%2CCSS" 
       media="(prefers-color-scheme: dark)" />
     <img 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=axtaylor&langs_count=6&theme=swift&layout=compact&hide=Jupyter%20Notebook%2CHTML%2CCSS"/>
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=axtaylor&langs_count=8&theme=swift&layout=compact&hide=Jupyter%20Notebook%2CHTML%2CCSS"/>
   </picture>
 </div>
