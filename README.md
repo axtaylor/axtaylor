@@ -10,10 +10,16 @@ Track Record:
 
 Casual Projects:
 
-- [cuda-gradient-descent](https://github.com/axtaylor/cuda-gradient-descent): Linear regression prototype written in CUDA accessible in Python.
+- [cuda-gradient-descent](https://github.com/axtaylor/cuda-gradient-descent): Linear regression prototype written in CUDA callable in Python.
 
 ---
 
-Published Workflows:
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=axtaylor&langs_count=4&hide=Jupyter%20Notebook,HTML,CSS)
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=axtaylor&langs_count=6&theme=github_dark_dimmed&layout=compact&hide=Jupyter%20Notebook%2CHTML%2CCSS" 
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=axtaylor&langs_count=6&theme=swift&layout=compact&hide=Jupyter%20Notebook%2CHTML%2CCSS"/>
+  </picture>
+</div>
