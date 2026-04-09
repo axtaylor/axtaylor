@@ -1,16 +1,13 @@
-## Hi there 👋
+## Lucas A. Taylor
 
-<!--
-**axtaylor/axtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open source developer. I build solutions that either don't exist or are trapped behind a paywall.
 
-Here are some ideas to get you started:
+Track Record:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [regression-inference](https://github.com/axtaylor/python-regression_inference): The only Python library that supports GPU acceleration for econometrics models. Provides prediction outputs for academic research that match R libraries.
+
+- [nutrition-fitness-tracker](https://github.com/axtaylor/nutrition-fitness-tracker): Dynamic calorie predictor that takes your weight and nutrition fluctuations and quantifies exactly how to achieve your goals. The alternative (unnamed mobile application) is subscription-based for $\approx$ \$50-70 a year.
+
+Casual Projects:
+
+- [cuda-gradient-descent](https://github.com/axtaylor/cuda-gradient-descent): Linear regression prototype written in CUDA accessible in Python.
